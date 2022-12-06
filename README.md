@@ -1,16 +1,9 @@
-# water_monitoring_2
+# Water Monitoring 2
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
+Water monitoring system menggunakan framework flutter ini dibuat menggunakan API package json-server yang berada pada Folder JSON dibagian db.json. terdapat tampilan yang memberikan gambaran Home Screen berupa list dari sungai yang dimonitoring yang dipanggil melaui API. Bagian Discovery terdapat gambaran Article Screen yang berisi artikel yang berhubungan dengan monitoring air seperti sensor, parameter yang dideteksi, dan artikel pentingnya menjaga sungai.  
 
 A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Praktikum modul 3 Prak PPB Flutter
